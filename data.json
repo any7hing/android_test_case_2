@@ -1,0 +1,65 @@
+{
+    "Device": {
+        "Basics": {
+            "Brand": "Google",
+            "Manufacturer": "Genymobile",
+            "Product": "vbox86p",
+            "Model": "Pixel"
+        },
+        "Display": {
+            "Name": "Built-in Screen",
+            "Resolution": "1920 x 1080",
+            "Size": "5.25\"",
+            "Aspect Ratio": "16:9",
+            "Frame Rate": "60 Hz",
+            "Density (ppi)": "420.0 ppi",
+            "Density (dpi)": "420 dpi (xxhdpi)",
+            "Default Orientation": "Portrait",
+            "HDR": "Not Supported"
+        },
+        "Features": {
+            "Fingerprint Authentication": "Not Supported",
+            "Face Authentication": "Not Supported",
+            "Vulkan": "Supported",
+            "File Based Encryption": "Supported"
+        },
+        "Identifiers": {
+            "Android ID": "7a7f003fb92e4e79",
+            "GSF ID": "385079b3b49a08ed"
+        }
+    },
+    "System": {
+        "OS": {
+            "Android Version": "Android 12",
+            "Minimum Target SDK": "23",
+            "Performance Class": "No class",
+            "Google Play system update": "12 (31)",
+            "Language": "English",
+            "Security Patch": "February 5, 2022",
+            "Build Number": "vbox86p-userdebug 12 SQ1D.220205.004 119 test-keys",
+            "Build ID": "SQ1D.220205.004",
+            "Board": "unknown",
+            "Hardware": "vbox86",
+            "Kernel Version": "5.10.101-genymotion+-ab74\n#1 Thu Dec 1 14:03:02 UTC 2022",
+            "Baseband Version": "1.0.0.0",
+            "Tags": "test-keys",
+            "Fingerprint": "google/vbox86p/vbox86p:12/SQ1D.220205.004/119:userdebug/test-keys,patch-1",
+            "Build Type": "userdebug",
+            "Up Time": "03:17:05",
+            "USB Debugging": "Enabled",
+            "SELinux": "Permissive"
+        },
+        "Extra": {
+            "Treble": "Supported",
+            "Seamless Updates": "Not Supported",
+            "Root": "Detected",
+            "Root Version": "16 com.genymotion.superuser"
+        }
+    },
+    "Media DRM": {
+        "ClearKey CDM": {
+            "Vendor": "Google",
+            "Version": "1.2"
+        }
+    }
+}
