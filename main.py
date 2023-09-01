@@ -59,7 +59,7 @@ driver.press_keycode(4)
 
 res = {}
 imports = imports[1:].split('|')
-try:
+try: # метод немного костыльный т.к. приложение формирует подзаголовки не с помошью setText
     res = {imports[0]:{'Basics': {imports[i]:imports[i+1] for i in range(1,len(imports[1:9]),2)},
                        'Display': {imports[i]:imports[i+1] for i in range(9, 26 ,2)},
                        'Features': {imports[i]:imports[i+1] for i in range(27, 34 ,2)},
